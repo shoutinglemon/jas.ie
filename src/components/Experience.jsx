@@ -9,6 +9,7 @@ const experienceItems = [
       'Provide ongoing support for Oracle RDBMS infrastructure, including troubleshooting, performance tuning, and routine maintenance to ensure high availability and system reliability.',
       'Improved data infrastructure reliability and standardization by designing and implementing new database restore processes for non-production environments, resulting in more stable and consistent development workflows.',
       'Migrated legacy Jenkins MultiJob configurations to Groovy-based pipelines, improving scalability, maintainability, and long-term support for critical jobs.',
+      'Participate in on-call rotations, providing out-of-hours incident response for emergency production issues and service outages',
     ],
   },
   {
